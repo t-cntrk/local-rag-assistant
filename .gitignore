@@ -1,0 +1,9 @@
+# Sanal ortam
+.venv/
+
+# Python derleme çıktıları
+__pycache__/
+*.pyc
+
+# Ingestion ile üretilen vektör veritabanı (src/ingest.py ile yeniden oluşturulur)
+knowledge.db

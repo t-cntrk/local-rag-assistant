@@ -1,0 +1,18 @@
+# Doğrudan bağımlılıklar. Belirtilen sürümler bu projede test edilenlerdir
+# (Windows 11, Python 3.14.4).
+#
+# Kurulum:
+#   .venv/Scripts/python.exe -m pip install -r requirements.txt
+
+# Foundry Local Python SDK — Windows donanım hızlandırmalı (Windows ML) varyant.
+# NOT: sade "foundry-local" paketini KURMA; bu, WinML hızlandırmalı doğru pakettir.
+# Import adı: foundry_local_sdk
+# onnxruntime-core, onnxruntime-genai-core ve foundry-local-core-winml paketlerini
+# kendisi bağımlılık olarak getirir.
+foundry-local-sdk-winml>=1.2.4
+
+# OpenAI istemcisi (Foundry Local'ın OpenAI uyumlu endpoint'i için)
+openai>=2.52.0
+
+# Vektör işlemleri: kosinüs benzerliği ile retrieval (src/retrieve.py)
+numpy>=2.5.1

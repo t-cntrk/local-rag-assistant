@@ -1,0 +1,16 @@
+# KahveUsta 300 — Temizlik ve Bakım
+
+## Günlük Temizlik
+Damlama tepsisini ve telve (posa) haznesini her gün boşaltıp durulayın. Süt sistemi her kullanımdan sonra otomatik durulama yapar.
+
+## Haftalık Temizlik
+Su haznesini ve süt kabını haftada bir sıcak sabunlu suyla yıkayın. Damlama tepsisi ve telve haznesi bulaşık makinesinin üst rafında yıkanabilir.
+
+## Kireç Çözme
+Her 3 ayda bir veya 300 fincan hazırlandıktan sonra kireç çözme yapılmalıdır. Gerektiğinde ekranda kireç çözme uyarısı yanar. İşlem için 100 ml KahveLab kireç çözücüyü 1 litre suyla karıştırın, menüden "Kireç Çözme" programını başlatın. İşlem yaklaşık 20 dakika sürer.
+
+## Su Filtresi Değişimi
+Su filtresini (KU-F1) her 2 ayda bir veya 60 litre su kullanımından sonra değiştirin. Filtre değişimi kireç oluşumunu azaltır.
+
+## Öğütücü Temizliği
+Konik öğütücüyü ayda bir, cihazla verilen temizlik fırçasıyla temizleyin. Öğütücüde yabancı cisim varsa cihazı kapatıp temizleyin.

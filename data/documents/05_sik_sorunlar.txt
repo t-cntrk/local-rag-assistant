@@ -1,0 +1,24 @@
+# KahveUsta 300 — Sık Karşılaşılan Sorunlar
+
+## Kahve çok açık veya sulu geliyor
+Öğütme kademesini düşürün (örneğin 2'ye), kahve miktarını artırın. Su sıcaklığını 94 °C'ye çıkarmayı deneyin.
+
+## Kahve akmıyor
+Çekirdek haznesinin boş olmadığını kontrol edin. Öğütücü tıkalı olabilir; temizleyin. Uzun süredir kireç çözme yapılmadıysa gerekebilir.
+
+## Süt köpürmüyor
+Süt kabının doğru takıldığını kontrol edin. Süt sistemi durulaması yapın. Soğuk ve tam yağlı süt kullanın.
+
+## Makine açılmıyor
+Fişin takılı ve arkadaki güç düğmesinin açık olduğunu kontrol edin. Sigortayı kontrol edin.
+
+## Hata Kodları
+- E1: Su haznesi boş veya yerine tam oturmamış. Hazneyi kontrol edin.
+- E3: Kireç çözme gerekli. Kireç çözme programını çalıştırın.
+- E5: Isıtıcı hatası. Cihazı kapatın ve destek hattını arayın.
+
+## Cihaz gürültülü çalışıyor
+Çekirdek haznesinde taş veya yabancı cisim olabilir. Cihazı kapatıp hazneyi kontrol edin.
+
+## Wi-Fi bağlanmıyor
+Mobil uygulama ve Wi-Fi bağlantısı belgesindeki adımları izleyin.
